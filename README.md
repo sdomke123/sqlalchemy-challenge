@@ -50,8 +50,6 @@ Python and SQLAlchemy were used to do basic climate analysis and data exploratio
 
   * Plot the results as a histogram with `bins=12`.
 
-    ![station-histogram](Images/station-histogram.png)
-
 * Close out your session.
 
 - - -
